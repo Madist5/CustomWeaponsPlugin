@@ -1,0 +1,13 @@
+name: CustomWeaponsPlugin
+main: com.madist.weaponplugin.CustomWeaponsPlugin
+version: 1.0
+api-version: 1.20
+commands:
+  locateitem:
+    description: Locate an item by name.
+  getshadowblade:
+    description: Get the ShadowWalker Blade.
+  getwardenaxe:
+    description: Get the Warden's Final Blow.
+  getpyrobow:
+    description: Get the Pyro Bow.
